@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Camila Medeiros
 
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
+- 📚 Graduanda em Análise e Desenvolvimento de Sistemas
 - 🏢 UNIFOR - Universidade de Fortaleza
 - ⭕ 4° Semestre
 - 📧 Email: camilaom89@gmail.com
