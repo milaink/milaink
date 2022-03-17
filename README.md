@@ -4,6 +4,12 @@
 - 🏫 UNIFOR - Universidade de Fortaleza
 - 📆 4° Semestre
 - 📧 Email: camilaom89@gmail.com
+
+<div align="center">
+  <a href="https://github.com/PedroLMaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milaink&show_icons=true&theme=nightowl &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milaink&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
    
  ##
   
