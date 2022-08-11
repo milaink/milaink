@@ -2,7 +2,8 @@
 
 - 📚 Graduanda em Análise e Desenvolvimento de Sistemas
 - 🏫 UNIFOR - Universidade de Fortaleza
-- 📆 4° Semestre
+- ⌨️ Estagiária do Tribunal de Justiça do Ceará
+- 📆 5° Semestre
 - 📧 Email: camilaom89@gmail.com
 
 <div align="center">
