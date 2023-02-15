@@ -1,9 +1,7 @@
 ### Olá! Eu sou a Camila Medeiros
 
-- 📚 Graduanda em Análise e Desenvolvimento de Sistemas
-- 🏫 UNIFOR - Universidade de Fortaleza
-- ⌨️ Estagiária do Tribunal de Justiça do Ceará
-- 📆 5° Semestre
+- 📚 Graduada em Análise e Desenvolvimento de Sistemas
+- 🎨 Especialista em Artes Visuais
 - 📧 Email: camilaom89@gmail.com
 
 <div align="center">
