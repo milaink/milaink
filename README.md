@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Camila Medeiros
 
-- 👩‍💻 Analista e Desenvolvedora de Sistemas
+- 💻 Analista e Desenvolvedora de Sistemas
 - 🎨 Especialista em Artes Visuais
 - 📧 Email: camilaom89@gmail.com
 
